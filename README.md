@@ -34,12 +34,6 @@ Actively seeking Software Engineering and Artificial Intelligence internships. S
 
 *   **Lumeo:** An AR-powered furniture platform developed using Unity and Flutter, supported by a Node.js microservices architecture. 
 
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maneth-k&show_icons=true&hide_border=true&bg_color=000000&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneth-k&layout=compact&hide_border=true&bg_color=000000&title_color=3b82f6&text_color=ffffff" width="48%" />
-</p>
 
 ### Connect
 
